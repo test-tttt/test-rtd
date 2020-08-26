@@ -1,8 +1,6 @@
 paddle\_quantum package
 =======================
 
-Submodules
-----------
 
 paddle\_quantum.circuit module
 ------------------------------

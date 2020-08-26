@@ -8,7 +8,7 @@ Welcome to WhiteLily's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: White Lily 入门
+   :caption: Paddle Quantum 入门
 
    introduction
    tutorial
