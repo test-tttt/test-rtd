@@ -5,4 +5,4 @@ sphinx
 sphinx-rtd-theme
 PyStemmer
 readthedocs-sphinx-search
-jieaba
+jieba
