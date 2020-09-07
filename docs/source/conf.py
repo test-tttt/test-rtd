@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Configuration file for the Sphinx documentation builder.
 #
 # This file only contains a selection of the most common options. For a full
@@ -18,8 +19,8 @@ sys.path.insert(0, os.path.abspath('../..'))
 # -- Project information -----------------------------------------------------
 
 project = 'WhiteLily'
-copyright = '2020, temp, temp Inc.'
-author = 'temp'
+copyright = '2020, Institute for temp, Temp Inc.'
+author = 'Temp'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
@@ -73,3 +74,4 @@ master_doc = 'index'
 
 # Autodoc
 autodoc_member_order = 'bysource'
+
