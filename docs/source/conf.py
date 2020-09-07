@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.abspath('../..'))
 # -- Project information -----------------------------------------------------
 
 project = 'WhiteLily'
-copyright = '2020, temp'
+copyright = '2020, temp, temp Inc.'
 author = 'temp'
 
 # The full version, including alpha/beta/rc tags
