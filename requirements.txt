@@ -1,4 +1,4 @@
-paddlepaddle>=1.8.3
+paddlepaddle>=1.8.5
 networkx
 matplotlib
 sphinx
